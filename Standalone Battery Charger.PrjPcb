@@ -119,6 +119,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=USVTLWDN
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Standalone Battery Charger\Design Rule Check - sbattery.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
